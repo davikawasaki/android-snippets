@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menus2</string>
+    <string name="txt_save">Salvar</string>
+    <string name="txt_delete">Excluir</string>
+    <string name="txt_use_data">Usar Dados</string>
+    <string name="txt_blue">Azul</string>
+    <string name="txt_red">Vermelho</string>
+    <string name="txt_submenu">Submenu</string>
+    <string name="txt_option1">Opção 1</string>
+    <string name="txt_option2">Opção 2</string>
+</resources>

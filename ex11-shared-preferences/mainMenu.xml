@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_colors"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item_blue"
+            android:title="@string/menu_item_blue_main_page" />
+        <item
+            android:id="@+id/menu_item_red"
+            android:title="@string/menu_item_red_main_page" />
+        <item
+            android:id="@+id/menu_item_yellow"
+            android:title="@string/menu_item_yellow_main_page" />
+    </group>
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layouts Combinados</string>
+    <string name="txt_button">Botão</string>
+    <string name="txt_field">Campo</string>
+</resources>

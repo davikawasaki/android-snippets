@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercício 1</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_last_name">Sobrenome</string>
+    <string name="button_clean_main">Limpar Campos</string>
+    <string name="button_full_name_main">Mostrar Nome Completo</string>
+    <string name="toast_clear_fields">Campos limpos!</string>
+</resources>

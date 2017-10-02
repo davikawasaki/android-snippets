@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="menu_item_blue_main_page">Azul</string>
+    <string name="menu_item_red_main_page">Vermelho</string>
+    <string name="menu_item_yellow_main_page">Amarelo</string>
+    <string name="color_preferences">kawasaki.utfpr.com.android.snippets.COLOR_PREFERENCES</string>
+    <string name="color_background">COLOR_BACKGROUND</string>
+</resources>

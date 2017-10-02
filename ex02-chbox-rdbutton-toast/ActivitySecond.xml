@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/radioBtnPage"
+        android:layout_width="match_parent"
+        android:layout_height="158dp">
+
+        <RadioButton
+            android:id="@+id/radioButtonJava"
+            android:layout_width="match_parent"
+            android:checked="true"
+            android:layout_height="50dp"
+            android:text="@string/radio_btn_java_option_radio_btn_page" />
+
+        <RadioButton
+            android:id="@+id/radioButtonPascal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/radio_btn_pascal_option_radio_btn_page" />
+
+        <RadioButton
+            android:id="@+id/radioButtonCobol"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/radio_btn_cobol_option_radio_btn_page" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonRadioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showSelected"
+        android:text="@string/radio_btn_show_selected_btn_radio_btn_page" />
+</LinearLayout>

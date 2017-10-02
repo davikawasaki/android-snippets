@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chamada Activity 2</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_has_car">Possui Carro</string>
+    <string name="txt_student">Aluno</string>
+    <string name="txt_professor">Professor</string>
+    <string name="txt_send">Enviar</string>
+    <string name="txt_back">Voltar</string>
+</resources>

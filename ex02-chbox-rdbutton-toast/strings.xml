@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Componentes Visuais 2</string>
+    <string name="txt_student_checkbox_main">Aluno</string>
+    <string name="txt_professor_checkbox_main">Professor</string>
+    <string name="txt_studentHelper_checkbox_main">Monitor</string>
+    <string name="txt_user_type_main">Tipo de Usuário</string>
+    <string name="btn_show_selected_main">Mostrar Selecionados</string>
+    <string name="toast_student_checked_main">Aluno</string>
+    <string name="toast_student_helper_checked_main">Monitor</string>
+    <string name="toast_teacher_checked_main">Professor</string>
+    <string name="btn_page_radio_button_main">Radio Buttons</string>
+    <string name="radio_btn_java_option_radio_btn_page">Java</string>
+    <string name="radio_btn_pascal_option_radio_btn_page">Pascal</string>
+    <string name="radio_btn_cobol_option_radio_btn_page">Cobol</string>
+    <string name="radio_btn_none_option_radio_btn_page">Nenhum Selecionado</string>
+    <string name="radio_btn_show_selected_btn_radio_btn_page">Mostrar Selecionados</string>
+    <string name="title_radio_button_page">Radio Buttons</string>
+    <string name="title_checkbox_page">Checkbox</string>
+</resources>

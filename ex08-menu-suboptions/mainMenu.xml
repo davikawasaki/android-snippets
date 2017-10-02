@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemSave"
+        android:icon="@android:drawable/ic_menu_save"
+        android:onClick="save"
+        android:title="@string/txt_save"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemDelete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/txt_delete"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemUseData"
+        android:checkable="true"
+        android:checked="false"
+        android:onClick="useData"
+        android:title="@string/txt_use_data" />
+
+    <group
+        android:id="@+id/groupColors"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuItemBlue"
+            android:title="@string/txt_blue" />
+        <item
+            android:id="@+id/menuItemRed"
+            android:title="@string/txt_red" />
+    </group>
+    <item
+        android:id="@+id/menuItemSubmenu"
+        android:title="@string/txt_submenu">
+        <menu>
+            <item
+                android:id="@+id/menuItemOption1"
+                android:title="@string/txt_option1" />
+            <item
+                android:id="@+id/menuItemOption2"
+                android:title="@string/txt_option2" />
+        </menu>
+    </item>
+</menu>

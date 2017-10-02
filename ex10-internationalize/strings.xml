@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internacionalização</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_last_name">Sobrenome</string>
+    <string name="txt_send">Enviar</string>
+    <string name="txt_clear">Limpar</string>
+    <string name="txt_uber" translatable="false">Uber</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internationalize</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_last_name">Last Name</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_clear">Clear</string>
+</resources>
